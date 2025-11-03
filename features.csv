@@ -1,0 +1,16 @@
+url,word_count,sentence_count,flesch_reading_ease,avg_sentence_length,top_keywords,is_thin,quality_label
+https://en.wikipedia.org/wiki/Search_engine_optimization,6399,498,48.605212488182616,12.85,search|from|google,False,Medium
+https://en.wikipedia.org/wiki/Content_marketing,3522,246,37.87338755745441,14.32,content|marketing|their,False,Medium
+https://en.wikipedia.org/wiki/Machine_learning,18598,1351,28.552400440287613,13.77,learning|machine|from,False,Low
+https://en.wikipedia.org/wiki/Artificial_intelligence,36864,2981,40.279079566459444,12.37,from|that|retrieved,False,Medium
+https://en.wikipedia.org/wiki/Digital_marketing,11245,853,34.283635239094366,13.18,marketing|digital|from,False,Medium
+https://simple.wikipedia.org/wiki/Search_engine_optimization,1100,83,41.41189431739434,13.25,search|change|engine,False,Medium
+https://simple.wikipedia.org/wiki/Content_marketing,344,25,33.95114686468648,13.76,content|marketing|change,True,Medium
+https://simple.wikipedia.org/wiki/Machine_learning,1596,72,-4.9302475881599435,22.17,learning|machine|network,False,Low
+https://simple.wikipedia.org/wiki/Artificial_intelligence,3228,145,10.199323924200542,22.26,artificial|intelligence|change,False,Low
+https://simple.wikipedia.org/wiki/Digital_marketing,210,14,14.445909090909112,15.0,marketing|digital|change,True,Low
+https://www.geeksforgeeks.org/data-science/data-science-with-python-tutorial/,488,11,-6.768406747891277,44.36,data|using|python,True,Low
+https://www.w3schools.com/datascience/,141,10,53.424545454545495,14.1,data|python|want,True,Low
+https://www.shopify.com/blog/ecommerce-seo-beginners-guide,5055,280,53.38134701374236,18.05,your|ecommerce|that,False,High
+https://www.twilio.com/en-us/blog/insights/content-marketing-best-practices,5700,354,51.65103042519857,16.1,content|your|that,False,High
+https://blog.hubspot.com/marketing/what-is-digital-marketing,8848,460,45.30487296795451,19.23,marketing|your|digital,False,Medium
